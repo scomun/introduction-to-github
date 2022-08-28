@@ -145,7 +145,7 @@ You may have noticed after your commit that a message displayed indicating your 
  If you want, feel free to click **Compare & pull request**, and then skip to step 6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
 
 1. Click on the **Pull requests** tab in your repository.
-2. Click **New pull request**.
+2. Click **New**.
 3. In the **base:** dropdown, make sure **main** is selected.
 4. Select the **compare:** dropdown, and click `my-first-branch`. <br>
    <img alt="screenshot showing both branch selections" src="/images/pull-request-branches.png"/>
